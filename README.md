@@ -1,5 +1,5 @@
 <br />
-<img src="https://github.com/isllanrx/teste-/blob/main/feature-open-source%402x.gif" align="left" width="300" alt="dog"/>
+<img src="https://github.com/isllanrx/teste-/blob/main/feature-open-source%402x.gif" align="left" width="300" alt="cat"/>
 
 ### Olá, Eu sou o Isllan!!! 👋
 
