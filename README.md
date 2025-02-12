@@ -28,10 +28,10 @@
 
 ---
 
-### � Projetos em Destaque
+### 🚀 Projetos em Destaque
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Isllanrx&repo=SEU_REPOSITORIO&theme=dracula&hide_border=true)](https://github.com/Isllanrx/Conversor_WEBP)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Isllanrx&repo=OUTRO_REPOSITORIO&theme=dracula&hide_border=true)](https://github.com/Isllanrx/Projeto-Calculadora)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Isllanrx&repo=Conversor_WEBP&theme=dracula&hide_border=true)](https://github.com/Isllanrx/Conversor_WEBP)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Isllanrx&repo=Projeto-Calculadora&theme=dracula&hide_border=true)](https://github.com/Isllanrx/Projeto-Calculadora)
 
 ---
 
