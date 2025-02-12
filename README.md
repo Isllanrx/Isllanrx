@@ -22,7 +22,7 @@
 
 ### 📊 Estatísticas do GitHub
 
-![Top Langs]()
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isllanrx&layout=compact&theme=dracula&hide_border=true)
 
 ![Isllan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isllanrx&show_icons=true&theme=dracula&hide_border=true)
 
