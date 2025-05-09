@@ -10,15 +10,13 @@
 
 Atualmente trabalho com as seguintes linguagens e ferramentas:
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
@@ -32,8 +30,8 @@ Atualmente trabalho com as seguintes linguagens e ferramentas:
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![Isllan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isllanrx&show_icons=true&theme=dracula&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isllanrx&layout=compact&theme=dracula&hide_border=true)
+![Isllan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isllanrx&show_icons=true&hide_border=true&theme=transparent)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isllanrx&layout=compact&hide_border=true&theme=transparent)
 
 ![3D Contribution Snake](./profile-3d-contrib/github-contribution-grid-snake.svg)
 
@@ -42,10 +40,10 @@ Atualmente trabalho com as seguintes linguagens e ferramentas:
 ### 🚀 Projetos em Destaque
 
 🔧 Conversor de imagens para formato WebP:  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Isllanrx&repo=Conversor_WEBP&theme=dracula&hide_border=true)](https://github.com/Isllanrx/Conversor_WEBP)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Isllanrx&repo=Conversor_WEBP&theme=transparent&hide_border=true)](https://github.com/Isllanrx/Conversor_WEBP)
 
 🧮 Calculadora moderna e responsiva:  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Isllanrx&repo=Projeto-Calculadora&theme=dracula&hide_border=true)](https://github.com/Isllanrx/Projeto-Calculadora)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Isllanrx&repo=Projeto-Calculadora&theme=transparent&hide_border=true)](https://github.com/Isllanrx/Projeto-Calculadora)
 
 ---
 
