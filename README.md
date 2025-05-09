@@ -30,8 +30,8 @@ Atualmente trabalho com as seguintes linguagens e ferramentas:
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![Isllan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isllanrx&show_icons=true&hide_border=true&theme=transparent)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isllanrx&layout=compact&hide_border=true&theme=transparent)
+![Isllan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isllanrx&show_icons=true&theme=dracula&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isllanrx&layout=compact&theme=dracula&hide_border=true)
 
 ![3D Contribution Snake](./profile-3d-contrib/github-contribution-grid-snake.svg)
 
@@ -40,10 +40,10 @@ Atualmente trabalho com as seguintes linguagens e ferramentas:
 ### 🚀 Projetos em Destaque
 
 🔧 Conversor de imagens para formato WebP:  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Isllanrx&repo=Conversor_WEBP&theme=transparent&hide_border=true)](https://github.com/Isllanrx/Conversor_WEBP)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Isllanrx&repo=Conversor_WEBP&theme=dracula&hide_border=true)](https://github.com/Isllanrx/Conversor_WEBP)
 
 🧮 Calculadora moderna e responsiva:  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Isllanrx&repo=Projeto-Calculadora&theme=transparent&hide_border=true)](https://github.com/Isllanrx/Projeto-Calculadora)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Isllanrx&repo=Projeto-Calculadora&theme=dracula&hide_border=true)](https://github.com/Isllanrx/Projeto-Calculadora)
 
 ---
 
