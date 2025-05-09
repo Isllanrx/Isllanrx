@@ -21,6 +21,7 @@
 ---
 
 ### 📊 Estatísticas do GitHub
+![3D Contribution Snake](./profile-3d-contrib/github-contribution-grid-snake.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isllanrx&layout=compact&theme=dracula&hide_border=true)
 
