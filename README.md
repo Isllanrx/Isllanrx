@@ -19,7 +19,7 @@ Atualmente trabalho com as seguintes linguagens e ferramentas:
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
----
+
 
 ### 🏆 GitHub Trophies
 
