@@ -1,6 +1,6 @@
 ### 👋 Olá, eu sou o Isllan!
 
-Sou um desenvolvedor Full Stack em formação, apaixonado por tecnologia e soluções criativas.  
+💻 Sou um desenvolvedor Full Stack em formação, apaixonado por tecnologia e soluções criativas.  
 🎓 Cursando **Ciência da Computação** | 🔰 **Oficial do Exército Brasileiro**  
 📍 Residente em **Vila Velha - ES**
 
@@ -20,6 +20,7 @@ Atualmente trabalho com as seguintes linguagens e ferramentas:
   <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
+---
 
 ### 🏆 GitHub Trophies
 
