@@ -28,8 +28,10 @@ Atualmente trabalho com as seguintes linguagens e ferramentas:
 
 ### 📊 Estatísticas do GitHub
 
-![Isllan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isllanrx&show_icons=true&hide_border=true&theme=transparent)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isllanrx&layout=compact&hide_border=true&theme=transparent)
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
+![Isllan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isllanrx&show_icons=true&theme=dracula&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isllanrx&layout=compact&theme=dracula&hide_border=true)
 
 ![3D Contribution Snake](./profile-3d-contrib/github-contribution-grid-snake.svg)
 
