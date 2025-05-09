@@ -21,7 +21,6 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-![3D Contribution Snake](./profile-3d-contrib/github-contribution-grid-snake.svg)
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
@@ -29,6 +28,7 @@
 
 ![Isllan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isllanrx&show_icons=true&theme=dracula&hide_border=true)
 
+![3D Contribution Snake](./profile-3d-contrib/github-contribution-grid-snake.svg)
 
 ---
 
