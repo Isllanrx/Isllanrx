@@ -11,7 +11,7 @@
 Atualmente trabalho com as seguintes linguagens e ferramentas:
 
 ## 🧠 Linguagens de Programação
-<div style="display: inline_block"><br>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img align="center" alt="HTML5"      height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3"       height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
@@ -26,7 +26,7 @@ Atualmente trabalho com as seguintes linguagens e ferramentas:
 <br>
 
 ## ⚙️ Frameworks e Bibliotecas
-<div style="display: inline_block"><br>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img align="center" alt="React"    height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Node.js"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Express"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
@@ -36,7 +36,7 @@ Atualmente trabalho com as seguintes linguagens e ferramentas:
 <br>
 
 ## 🛢️ Banco de Dados
-<div style="display: inline_block"><br>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img align="center" alt="MySQL"      height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="SQLite"     height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="MongoDB"    height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
@@ -46,7 +46,7 @@ Atualmente trabalho com as seguintes linguagens e ferramentas:
 <br>
 
 ## 🔧 Ferramentas e Plataformas
-<div style="display: inline_block"><br>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img align="center" alt="Git"     height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="GitHub"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="VSCode"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
