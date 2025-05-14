@@ -1,10 +1,14 @@
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=header&text=Olá,%20me%20chamo%20Isllan!&fontColor=000000&fontSize=30&fontAlign=center&animation=twinkling" 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=header&text=Olá,%20me%20chamo%20Isllan!&fontColor=FFFFFF&fontSize=30&fontAlign=center&animation=twinkling" 
   alt="Banner animado"
   style="width: 100%; max-width: 1000px;" 
 />
 
 ### <img src="https://github.com/user-attachments/assets/814b8635-4a9c-4ec8-8023-7cc45345f6b3" width="30px" alt="Gif de boas vindas"> Seja bem-vindo(a) ao meu GitHub!
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Profissionalismo!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Dedicação!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Comprometimento!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&lines=Está+no+lugar+certo!" />
 
 💻 **Apaixonado por transformar desafios complexos em soluções criativas**, sou um desenvolvedor Full Stack em formação, com forte foco em **inovação** e **automação de processos**.
 
