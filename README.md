@@ -1,5 +1,5 @@
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=header&text=Olá,%20sou%20Isllan!&fontColor=ffffff&fontSize=30&fontAlign=center&animation=twinkling" 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=header&text=Olá,%20me%20chamo%20Isllan!&fontColor=ffffff&fontSize=30&fontAlign=center&animation=twinkling" 
   alt="Banner animado"
   style="width: 100%; max-width: 1000px;" 
 />
