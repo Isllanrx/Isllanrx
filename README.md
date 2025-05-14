@@ -4,7 +4,7 @@
   style="width: 100%; max-width: 1000px;" 
 />
 
-### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Gif de boas vindas"> Seja bem-vindo(a) ao meu GitHub!
+### <img src="https://github.com/user-attachments/assets/814b8635-4a9c-4ec8-8023-7cc45345f6b3" width="30px" alt="Gif de boas vindas"> Seja bem-vindo(a) ao meu GitHub!
 
 💻 **Apaixonado por transformar desafios complexos em soluções criativas**, sou um desenvolvedor Full Stack em formação, com forte foco em **inovação** e **automação de processos**.
 
