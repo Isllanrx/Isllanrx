@@ -84,21 +84,19 @@ Atualmente trabalho com as seguintes linguagens e ferramentas, aplicando sempre 
 
 ---
 
-### 🏆 GitHub Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Isllanrx&theme=onedark&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### 📊 Estatísticas do GitHub
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isllanrx&layout=compact&theme=dracula&hide_border=true)
-
-![Isllan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isllanrx&show_icons=true&theme=dracula&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Isllanrx&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 ![3D Contribution Snake](./profile-3d-contrib/github-contribution-grid-snake.svg)
+
+---
+
+### 🏆 GitHub Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Isllanrx&theme=onedark&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
