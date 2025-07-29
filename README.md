@@ -23,7 +23,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isllantoso/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/isllan_toso/)
-![Profile views](https://img.shields.io/badge/Profile%20Views-5000-blue)
+![Profile views](https://img.shields.io/badge/Profile%20Views-10000-blue)
 ![Years Badge](https://img.shields.io/badge/Years%20Active-5-blue)
 
 ---
