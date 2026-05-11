@@ -22,7 +22,7 @@
 
 ## About Me
 
-Junior Developer in Analytics with focus on data pipelines, backend architecture, and process automation. Pursuing a Bachelor's degree in Computer Science at Universidade Vila Velha (UVV). Building production-grade solutions with Python, TypeScript, and cloud-native tooling.
+Developer in Analytics with focus on data pipelines, backend architecture, and process automation. Pursuing a Bachelor's degree in Computer Science at Universidade Vila Velha (UVV). Building production-grade solutions with Python, TypeScript, and cloud-native tooling.
 
 - Developing analytics platforms with Azure DevOps, Streamlit, Redis, and Parquet-based data lakes
 - Designing and auditing ETL pipelines and automation scripts for operational intelligence
